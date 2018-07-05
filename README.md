@@ -6,9 +6,9 @@
  * Linux BIN - yyy
  
 # How it looks
-|  Cutting holes  | 2nd demo |
+|  Cutting random holes  | Cutting Mickey Mouse shape |
 | --|--|
-| <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain-000.gif" width="300"> | <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain-001.gif" width="300"> |
+| <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain_000.gif" width="300"> | <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain_001.gif" width="300"> |
 
 # How to build Desktop app
  * Install `Python 2`

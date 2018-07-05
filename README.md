@@ -2,8 +2,8 @@
 *"Terrain"* is 2D landscape deformation prototype written in *Python*. This prototype allows user to deform 2D terrain by cutting holes in it. Terrain mesh is being rebuilt after each deformation by removing old and adding new triangles.
 
 # Downloads
- * Windows EXE - xxx
- * Linux BIN - yyy
+ * Windows EXE - https://github.com/afomins/terrain/releases/download/v0.1.0/terrain-v0.1.0.exe
+ * Linux BIN - $TODO$
  
 # How it looks
 |  Cutting random holes  | Cutting Mickey Mouse shape |

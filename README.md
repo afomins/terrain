@@ -1,4 +1,4 @@
-# What is *"Terrain"*
+# Intro
 *"Terrain"* is 2D landscape deformation prototype written in *Python*. This prototype allows user to deform 2D terrain by cutting holes in it. Terrain mesh is being rebuilt after each deformation by removing old and adding new triangles.
 
 # Downloads
@@ -10,7 +10,7 @@
 | --|--|
 | <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain_000.gif" width="300"> | <img src="https://github.com/afomins/terrain/blob/master/gifs/terrain_001.gif" width="300"> |
 
-# How to build Desktop app
+# Bild instructions
  * Install `Python2`
  * Clone `git@github.com:afomins/terrain.git`
  * Install `PyQt4` for `python2`:
